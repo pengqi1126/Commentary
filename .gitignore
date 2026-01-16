@@ -1,0 +1,10 @@
+clip/
+output/
+output_tts/
+__pycache__/
+*.pyc
+clip/
+output/
+output_tts/
+__pycache__/
+*.pyc
