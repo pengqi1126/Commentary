@@ -13,6 +13,8 @@
    git clone https://github.com/pengqi1126/Commentary.git
    cd Commentary
 
+### 结构
+
 1. 视频处理层 🎥
 video_io.py - 视频读取器
 功能：视频文件的底层输入/输出操作
